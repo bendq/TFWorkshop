@@ -4,7 +4,7 @@ This repository contains materials for the Infrastructure as Code - Building Azu
 
 ## Presentation
 
-The Power Point presentation can be found here: [AzureTerraformWorkshopPresentation](docs/AzureTerraformWorkshopPresentation.pptx)
+The Power Point presentation can be found here: [AzureTerraformWorkshopPresentation](AzureTerraformWorkshopPresentation.pptx)
 
 ## Resources
 
